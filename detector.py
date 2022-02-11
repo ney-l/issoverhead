@@ -65,4 +65,4 @@ def detect_iss():
             PASSWORD,
             RECIPIENT
         )
-        print("Email notification send! 📧")
+        print("Email notification sent! 📧")
